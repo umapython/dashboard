@@ -1,0 +1,24 @@
+https://www.geeksforgeeks.org/react-bootstrap-carousel-component/
+for dates in flask
+==================
+https://www.youtube.com/watch?v=yDuuYAPCeoU
+https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i
+router
+======
+https://www.youtube.com/watch?v=UjHT_NKR_gU
+
+
+{prodlist.map((item) => (
+        <li key={item.id}>(<Link to={'time/'}>{item.product}</Link>)</li>
+      ))}
+REact axios api request
+=======================
+  https://www.youtube.com/watch?v=ZEKBDXGnD4s
+
+axios_all(multiple request)
+=========================
+https://www.youtube.com/watch?v=Mt3kxUvHORA
+for react-redux project
+======================
+https://www.youtube.com/watch?v=0W6i5LYKCSI
+https://www.youtube.com/watch?v=QoJGKwo20is
